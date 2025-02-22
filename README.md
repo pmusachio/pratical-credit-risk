@@ -1,4 +1,4 @@
-# Pratical Credit Policy with Machine Learning
+# Pratical Credit Policies with an ML Model
 
 ![LendingClub](https://s3.amazonaws.com/static.lendingclub.com/banking/logos/brand_day_logo_email.png)
 
