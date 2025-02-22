@@ -1,4 +1,4 @@
-# Pratical Credit Policy from Credit Score
+# Pratical Credit Policy with Machine Learning
 
 ![LendingClub](https://s3.amazonaws.com/static.lendingclub.com/banking/logos/brand_day_logo_email.png)
 
