@@ -78,7 +78,7 @@ ROI Annualized: 3.90%
 
 <br>
 
-## ROI and expected loss from a loan application
+## How to use credit-scoring to compute expected ROI from a loan application
 
 ```python
 credit_scoring = "B"                    # Customer risk profile classification
@@ -101,10 +101,6 @@ e_roi = (gains - e_losses - operating_costs) / loan_amount
 print(f"expected ROI: {e_roi * 100 :.2f}%")
 ```
 expected ROI: 12.10%
-
-<br>
-
-## How to use credit-scoring to compute expected ROI
 
 <br>
 
