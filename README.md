@@ -24,7 +24,7 @@ Lending Club is a P2P company, which enables borrowers to obtain loans directly 
 
 >Objective
 - Objective of creating a credit policy with an **annualized ROI of at least 2.5%** (spread in relation to the basic interest rate)
-<img src="https://raw.githubusercontent.com/pmusachio/pratical-credit-risk/refs/heads/main/img/BIR-17-20.png">
+<img src="https://raw.githubusercontent.com/pmusachio/pratical-credit-risk/refs/heads/main/img/interest_rate.png">
 
 <br>
 
