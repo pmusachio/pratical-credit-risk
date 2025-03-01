@@ -108,15 +108,13 @@ expected ROI: 12.10%
 
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
-flowchart
+flowchart LR
     A@{ shape: lin-cyl, label: "**Dataset**" }-->b("`**Machine Learning 
                                              Classification Model**`")
     b-->c("`**Model Score
         [ 0, 1 ]**`")
     c -- "Calibration" --> d
 subgraph "out-of-time"
-    g("`Test dataset will be used to make the risk categories and thus create the PD, EAD, LGD.
-    Enabling the definition of credit policy`")
     d("`**Credit Score**
     A, B, C, D, E`")
     d --> Policy
@@ -128,6 +126,10 @@ end
 end
 ```
 
+<img src="https://raw.githubusercontent.com/pmusachio/pratical-credit-risk/refs/heads/main/img/split.png" alt="split" width="300" align="left" style="margin-right: 20px;">
+Test dataset will be used to make the risk categories and thus create the PD, EAD, LGD. <br>
+Enabling the definition of credit policy
+
 <br>
 
-## Hands-on W/ python!
+## 1
